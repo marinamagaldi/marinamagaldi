@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marina, and I'm a technology enthusiast. I work as an Information Security Analyst, and my main goal is to develop my skills in DevOps, Cloud Computing, and Artificial Intelligence.👩‍💻</p>
+<p align="left">My name is Marina, and I'm a technology enthusiast. I work as an Information Security Analyst, and my main goal is to develop my skills in DevOps, Cloud Computing and Artificial Intelligence.👩‍💻</p>
 
 ###
 
